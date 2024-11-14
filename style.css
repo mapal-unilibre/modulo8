@@ -6,6 +6,11 @@ p {
     color:#0000ff
 }
 
+#container p{
+    color:rgb(11, 246, 168);
+    font-size: 24px;
+}
+
 .borde-todos{
     border: 1px solid #ff0000;
 }
