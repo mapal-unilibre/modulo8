@@ -1,0 +1,25 @@
+h1 {
+    color:red
+}
+
+p {
+    color:#0000ff
+}
+
+.borde-todos{
+    border: 1px solid #ff0000;
+}
+
+#padre {
+               
+    width: 300px;
+    height: 300px;
+}
+
+#hijo{
+    border: 1px solid #0000ff;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 50px;
+}
